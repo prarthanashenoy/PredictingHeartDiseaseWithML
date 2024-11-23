@@ -1,10 +1,10 @@
 # Heart Disease Risk Prediction using Machine Learning
 
-This project aims to predict the likelihood of heart disease using machine learning algorithms. Early detection of heart disease is crucial for effective intervention and management. This project explores various machine learning techniques to build a predictive model using a publicly available dataset from Kaggle.
+This project aims to predict the likelihood of heart disease using machine learning algorithms. Early detection of heart disease risk is crucial for effective intervention and management. This project explores various machine learning techniques to build a predictive model using a publicly available dataset from Kaggle.
 
 ## 1. Introduction
 
-Heart disease is a leading cause of death worldwide. Early diagnosis plays a vital role in improving patient outcomes.  This project focuses on developing and comparing different machine learning models to accurately predict heart disease based on patient attributes.
+Heart disease is a leading cause of death worldwide. Early diagnosis plays a vital role in improving patient outcomes.  This project focuses on developing and comparing different machine learning models to accurately predict the risk of getting a heart disease based on patient attributes.
 
 ## 2. Machine Learning Techniques
 
